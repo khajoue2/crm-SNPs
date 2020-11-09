@@ -1,2 +1,2 @@
-# crm-SNPs
-Model-based analysis of polymorphisms in an enhancer reveals cis-regulatory mechanisms
+# GEMSTAT_scripts
+Various task-agnostic scripting language tools for dealing with GEMSTAT.
